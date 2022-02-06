@@ -1,0 +1,8 @@
+Hello, this is the intro project. It is made for you to practice you cpp skills.
+Don't cheat!
+Use the internet to help you understand different functions 
+You will need to understand arrays, file i/o, shift operations, and operations, as well as general principles of c code
+!@#$%^&*()
+
+
+Best of Luck!!!
